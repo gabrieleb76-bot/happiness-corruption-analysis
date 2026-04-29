@@ -1,0 +1,329 @@
+country_id,country,region
+1,Switzerland,Western Europe
+2,Iceland,Western Europe
+3,Denmark,Western Europe
+4,Norway,Western Europe
+5,Canada,North America
+6,Finland,Western Europe
+7,Netherlands,Western Europe
+8,Sweden,Western Europe
+9,New Zealand,Australia and New Zealand
+10,Australia,Australia and New Zealand
+11,Israel,Middle East and Northern Africa
+12,Costa Rica,Latin America and Caribbean
+13,Austria,Western Europe
+14,Mexico,Latin America and Caribbean
+15,United States,North America
+16,Brazil,Latin America and Caribbean
+17,Luxembourg,Western Europe
+18,Ireland,Western Europe
+19,Belgium,Western Europe
+20,United Arab Emirates,Middle East and Northern Africa
+21,United Kingdom,Western Europe
+22,Oman,Middle East and Northern Africa
+23,Venezuela,Latin America and Caribbean
+24,Singapore,Southeastern Asia
+25,Panama,Latin America and Caribbean
+26,Germany,Western Europe
+27,Chile,Latin America and Caribbean
+28,Qatar,Middle East and Northern Africa
+29,France,Western Europe
+30,Argentina,Latin America and Caribbean
+31,Czech Republic,Central and Eastern Europe
+32,Uruguay,Latin America and Caribbean
+33,Colombia,Latin America and Caribbean
+34,Thailand,Southeastern Asia
+35,Saudi Arabia,Middle East and Northern Africa
+36,Spain,Western Europe
+37,Malta,Western Europe
+38,Taiwan,Eastern Asia
+39,Kuwait,Middle East and Northern Africa
+40,Suriname,Latin America and Caribbean
+41,Trinidad and Tobago,Latin America and Caribbean
+42,El Salvador,Latin America and Caribbean
+43,Guatemala,Latin America and Caribbean
+44,Uzbekistan,Central and Eastern Europe
+45,Slovakia,Central and Eastern Europe
+46,Japan,Eastern Asia
+47,South Korea,Eastern Asia
+48,Ecuador,Latin America and Caribbean
+49,Bahrain,Middle East and Northern Africa
+50,Italy,Western Europe
+51,Bolivia,Latin America and Caribbean
+52,Moldova,Central and Eastern Europe
+53,Paraguay,Latin America and Caribbean
+54,Kazakhstan,Central and Eastern Europe
+55,Slovenia,Central and Eastern Europe
+56,Lithuania,Central and Eastern Europe
+57,Nicaragua,Latin America and Caribbean
+58,Peru,Latin America and Caribbean
+59,Belarus,Central and Eastern Europe
+60,Poland,Central and Eastern Europe
+61,Malaysia,Southeastern Asia
+62,Croatia,Central and Eastern Europe
+63,Libya,Middle East and Northern Africa
+64,Russia,Central and Eastern Europe
+65,Jamaica,Latin America and Caribbean
+66,North Cyprus,Western Europe
+67,Cyprus,Western Europe
+68,Algeria,Middle East and Northern Africa
+69,Kosovo,Central and Eastern Europe
+70,Turkmenistan,Central and Eastern Europe
+71,Mauritius,Sub-Saharan Africa
+72,Hong Kong,Eastern Asia
+73,Estonia,Central and Eastern Europe
+74,Indonesia,Southeastern Asia
+75,Vietnam,Southeastern Asia
+76,Turkey,Middle East and Northern Africa
+77,Kyrgyzstan,Central and Eastern Europe
+78,Nigeria,Sub-Saharan Africa
+79,Bhutan,Southern Asia
+80,Azerbaijan,Central and Eastern Europe
+81,Pakistan,Southern Asia
+82,Jordan,Middle East and Northern Africa
+83,Montenegro,Central and Eastern Europe
+84,China,Eastern Asia
+85,Zambia,Sub-Saharan Africa
+86,Romania,Central and Eastern Europe
+87,Serbia,Central and Eastern Europe
+88,Portugal,Western Europe
+89,Latvia,Central and Eastern Europe
+90,Philippines,Southeastern Asia
+91,Somaliland region,Sub-Saharan Africa
+92,Morocco,Middle East and Northern Africa
+93,Macedonia,Central and Eastern Europe
+94,Mozambique,Sub-Saharan Africa
+95,Albania,Central and Eastern Europe
+96,Bosnia and Herzegovina,Central and Eastern Europe
+97,Lesotho,Sub-Saharan Africa
+98,Dominican Republic,Latin America and Caribbean
+99,Laos,Southeastern Asia
+100,Mongolia,Eastern Asia
+101,Swaziland,Sub-Saharan Africa
+102,Greece,Western Europe
+103,Lebanon,Middle East and Northern Africa
+104,Hungary,Central and Eastern Europe
+105,Honduras,Latin America and Caribbean
+106,Tajikistan,Central and Eastern Europe
+107,Tunisia,Middle East and Northern Africa
+108,Palestinian Territories,Middle East and Northern Africa
+109,Bangladesh,Southern Asia
+110,Iran,Middle East and Northern Africa
+111,Ukraine,Central and Eastern Europe
+112,Iraq,Middle East and Northern Africa
+113,South Africa,Sub-Saharan Africa
+114,Ghana,Sub-Saharan Africa
+115,Zimbabwe,Sub-Saharan Africa
+116,Liberia,Sub-Saharan Africa
+117,India,Southern Asia
+118,Sudan,Sub-Saharan Africa
+119,Haiti,Latin America and Caribbean
+120,Congo (Kinshasa),Sub-Saharan Africa
+121,Nepal,Southern Asia
+122,Ethiopia,Sub-Saharan Africa
+123,Sierra Leone,Sub-Saharan Africa
+124,Mauritania,Sub-Saharan Africa
+125,Kenya,Sub-Saharan Africa
+126,Djibouti,Sub-Saharan Africa
+127,Armenia,Central and Eastern Europe
+128,Botswana,Sub-Saharan Africa
+129,Myanmar,Southeastern Asia
+130,Georgia,Central and Eastern Europe
+131,Malawi,Sub-Saharan Africa
+132,Sri Lanka,Southern Asia
+133,Cameroon,Sub-Saharan Africa
+134,Bulgaria,Central and Eastern Europe
+135,Egypt,Middle East and Northern Africa
+136,Yemen,Middle East and Northern Africa
+137,Angola,Sub-Saharan Africa
+138,Mali,Sub-Saharan Africa
+139,Congo (Brazzaville),Sub-Saharan Africa
+140,Comoros,Sub-Saharan Africa
+141,Uganda,Sub-Saharan Africa
+142,Senegal,Sub-Saharan Africa
+143,Gabon,Sub-Saharan Africa
+144,Niger,Sub-Saharan Africa
+145,Cambodia,Southeastern Asia
+146,Tanzania,Sub-Saharan Africa
+147,Madagascar,Sub-Saharan Africa
+148,Central African Republic,Sub-Saharan Africa
+149,Chad,Sub-Saharan Africa
+150,Guinea,Sub-Saharan Africa
+151,Ivory Coast,Sub-Saharan Africa
+152,Burkina Faso,Sub-Saharan Africa
+153,Afghanistan,Southern Asia
+154,Rwanda,Sub-Saharan Africa
+155,Benin,Sub-Saharan Africa
+156,Syria,Middle East and Northern Africa
+157,Burundi,Sub-Saharan Africa
+158,Togo,Sub-Saharan Africa
+159,Puerto Rico,Latin America and Caribbean
+160,Belize,Latin America and Caribbean
+161,Somalia,Sub-Saharan Africa
+162,Somaliland Region,Sub-Saharan Africa
+163,Namibia,Sub-Saharan Africa
+164,South Sudan,Sub-Saharan Africa
+165,Norway,Unknown
+166,Denmark,Unknown
+167,Iceland,Unknown
+168,Switzerland,Unknown
+169,Finland,Unknown
+170,Netherlands,Unknown
+171,Canada,Unknown
+172,New Zealand,Unknown
+173,Sweden,Unknown
+174,Australia,Unknown
+175,Israel,Unknown
+176,Costa Rica,Unknown
+177,Austria,Unknown
+178,United States,Unknown
+179,Ireland,Unknown
+180,Germany,Unknown
+181,Belgium,Unknown
+182,Luxembourg,Unknown
+183,United Kingdom,Unknown
+184,Chile,Unknown
+185,United Arab Emirates,Unknown
+186,Brazil,Unknown
+187,Czech Republic,Unknown
+188,Argentina,Unknown
+189,Mexico,Unknown
+190,Singapore,Unknown
+191,Malta,Unknown
+192,Uruguay,Unknown
+193,Guatemala,Unknown
+194,Panama,Unknown
+195,France,Unknown
+196,Thailand,Unknown
+197,Taiwan Province of China,Unknown
+198,Spain,Unknown
+199,Qatar,Unknown
+200,Colombia,Unknown
+201,Saudi Arabia,Unknown
+202,Trinidad and Tobago,Unknown
+203,Kuwait,Unknown
+204,Slovakia,Unknown
+205,Bahrain,Unknown
+206,Malaysia,Unknown
+207,Nicaragua,Unknown
+208,Ecuador,Unknown
+209,El Salvador,Unknown
+210,Poland,Unknown
+211,Uzbekistan,Unknown
+212,Italy,Unknown
+213,Russia,Unknown
+214,Belize,Unknown
+215,Japan,Unknown
+216,Lithuania,Unknown
+217,Algeria,Unknown
+218,Latvia,Unknown
+219,South Korea,Unknown
+220,Moldova,Unknown
+221,Romania,Unknown
+222,Bolivia,Unknown
+223,Turkmenistan,Unknown
+224,Kazakhstan,Unknown
+225,North Cyprus,Unknown
+226,Slovenia,Unknown
+227,Peru,Unknown
+228,Mauritius,Unknown
+229,Cyprus,Unknown
+230,Estonia,Unknown
+231,Belarus,Unknown
+232,Libya,Unknown
+233,Turkey,Unknown
+234,Paraguay,Unknown
+235,"Hong Kong S.A.R., China",Unknown
+236,Philippines,Unknown
+237,Serbia,Unknown
+238,Jordan,Unknown
+239,Hungary,Unknown
+240,Jamaica,Unknown
+241,Croatia,Unknown
+242,Kosovo,Unknown
+243,China,Unknown
+244,Pakistan,Unknown
+245,Indonesia,Unknown
+246,Venezuela,Unknown
+247,Montenegro,Unknown
+248,Morocco,Unknown
+249,Azerbaijan,Unknown
+250,Dominican Republic,Unknown
+251,Greece,Unknown
+252,Lebanon,Unknown
+253,Portugal,Unknown
+254,Bosnia and Herzegovina,Unknown
+255,Honduras,Unknown
+256,Macedonia,Unknown
+257,Somalia,Unknown
+258,Vietnam,Unknown
+259,Nigeria,Unknown
+260,Tajikistan,Unknown
+261,Bhutan,Unknown
+262,Kyrgyzstan,Unknown
+263,Nepal,Unknown
+264,Mongolia,Unknown
+265,South Africa,Unknown
+266,Tunisia,Unknown
+267,Palestinian Territories,Unknown
+268,Egypt,Unknown
+269,Bulgaria,Unknown
+270,Sierra Leone,Unknown
+271,Cameroon,Unknown
+272,Iran,Unknown
+273,Albania,Unknown
+274,Bangladesh,Unknown
+275,Namibia,Unknown
+276,Kenya,Unknown
+277,Mozambique,Unknown
+278,Myanmar,Unknown
+279,Senegal,Unknown
+280,Zambia,Unknown
+281,Iraq,Unknown
+282,Gabon,Unknown
+283,Ethiopia,Unknown
+284,Sri Lanka,Unknown
+285,Armenia,Unknown
+286,India,Unknown
+287,Mauritania,Unknown
+288,Congo (Brazzaville),Unknown
+289,Georgia,Unknown
+290,Congo (Kinshasa),Unknown
+291,Mali,Unknown
+292,Ivory Coast,Unknown
+293,Cambodia,Unknown
+294,Sudan,Unknown
+295,Ghana,Unknown
+296,Ukraine,Unknown
+297,Uganda,Unknown
+298,Burkina Faso,Unknown
+299,Niger,Unknown
+300,Malawi,Unknown
+301,Chad,Unknown
+302,Zimbabwe,Unknown
+303,Lesotho,Unknown
+304,Angola,Unknown
+305,Afghanistan,Unknown
+306,Botswana,Unknown
+307,Benin,Unknown
+308,Madagascar,Unknown
+309,Haiti,Unknown
+310,Yemen,Unknown
+311,South Sudan,Unknown
+312,Liberia,Unknown
+313,Guinea,Unknown
+314,Togo,Unknown
+315,Rwanda,Unknown
+316,Syria,Unknown
+317,Tanzania,Unknown
+318,Burundi,Unknown
+319,Central African Republic,Unknown
+320,Taiwan,Unknown
+321,Trinidad & Tobago,Unknown
+322,Northern Cyprus,Unknown
+323,Hong Kong,Unknown
+324,Laos,Unknown
+325,North Macedonia,Unknown
+326,Gambia,Unknown
+327,Swaziland,Unknown
+328,Comoros,Unknown
